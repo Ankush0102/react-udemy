@@ -1,7 +1,5 @@
 .github
 .vscode
-*.scss
-*.css
 build
 cypress
 node_modules
